@@ -24,7 +24,7 @@ class Grocery extends React.Component
         render()
         {
             return (
-                <div>
+                <div className="app">
                 <h2>Grocery App</h2>
                 <div className="root-container">
                     
